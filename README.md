@@ -1,4 +1,7 @@
 py_sdk
 ======
 
-Sudoky
+Sudoku
+
+Teste de programa para solucionar sudokus válidos.
+Utiliza algoritmo da wikipedia (backtracking).
